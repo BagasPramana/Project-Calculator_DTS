@@ -71,3 +71,7 @@ button:hover{
 .operator:hover, .equal-sign:hover{
     background-color: darkorange;
 }
+
+body{
+    background-color: #9f9ace94;
+}
